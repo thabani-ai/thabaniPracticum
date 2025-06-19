@@ -25,7 +25,8 @@ entered to be displayed, it also, as I mentioned above, calculates the average, 
 
 ![Display screen](https://github.com/user-attachments/assets/6f42cd17-ed67-44dc-8603-81ef150b00dc)
 
-
+The app also shows that comments are only optional, if the user does no input a comment but has enter the song name, artist name and a ration, it will move to
+the second screen, else the app outputs a toast message asking the user to input the data
 
 
 ![Error Hndling](https://github.com/user-attachments/assets/7bae36c6-8b29-4ba6-8837-45e4d2adc3b3)
