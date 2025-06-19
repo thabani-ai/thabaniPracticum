@@ -10,7 +10,8 @@ HOW THE APP WORKS:
                 Once all the songs have been entered the app displays all the songs (including all of its data (artist name, rating, comments). The app also calculate the
                 average rating for all the songs entered and outputs it once the display average button is pressed. The first screen is mainly for the user to input the                      data, then the second screen is one that displays the data for the user. The average is calculated and it displays all the songs for the user
 
-          ![source code](https://github.com/user-attachments/assets/06d9e00d-6e32-4597-92e1-91942a8e2e4a)
+          ![source code](https://github.com/user-attachments/assets/67fde9fe-4fc1-418b-8974-296ea8f7e1c9)
+
 
 
 ![Main Screen](https://github.com/user-attachments/assets/d9137f22-2670-4a9b-8dd5-9b09dd3fc356)
