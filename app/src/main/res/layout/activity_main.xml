@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <EditText
+            android:id="@+id/etSongName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Song Name"
+            android:minHeight="48dp"
+            tools:ignore="Autofill,HardcodedText,TextFields,VisualLintTextFieldSize" />
+
+        <EditText
+            android:id="@+id/etArtist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Artist"
+            android:minHeight="48dp"
+            tools:ignore="Autofill,HardcodedText,TextFields,VisualLintTextFieldSize" />
+
+        <EditText
+            android:id="@+id/etRating"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Rating"
+            android:inputType="number"
+            android:minHeight="48dp"
+            tools:ignore="Autofill,HardcodedText,VisualLintTextFieldSize" />
+
+        <EditText
+            android:id="@+id/etComments"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Comments"
+            android:minHeight="48dp"
+            tools:ignore="Autofill,HardcodedText,TextContrastCheck,TextFields,VisualLintTextFieldSize" />
+
+        <Button
+            android:id="@+id/btnAdd"
+            android:text="Add to Playlist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            tools:ignore="HardcodedText,VisualLintButtonSize" />
+
+        <Button
+            android:id="@+id/btnSecondScreen"
+            android:text="Go To Second Screen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            tools:ignore="HardcodedText,VisualLintButtonSize" />
+
+        <Button
+            android:id="@+id/btnExit"
+            android:text="Exit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            tools:ignore="HardcodedText,VisualLintButtonSize" />
+    </LinearLayout>
+</ScrollView>
