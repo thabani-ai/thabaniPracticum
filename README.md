@@ -1,3 +1,6 @@
+STUDENT NAME: Thabani John Muhlwa
+STUDENT NUMBER: ST10469671
+
 GitHub Link: https://github.com/thabani-ai/thabaniPracticum.git
 
 BRIEF DESCRIPTION: 
